@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-import  re
 """
 write by kill02lc
 """
